@@ -2,8 +2,8 @@ body {
 
 	/*text-align: center;*/
 	background-color: #fafafa;
-	background-image: url("../images/heart-pattern-1.png");
-	background-repeat: repeat;
+	background-image: url("../images/classroom-background.png");
+	background-repeat: no-repeat;
 	line-height: 1.5;
 	font-size: 100%;
 	font-family: 'Montserrat', sans-serif;
