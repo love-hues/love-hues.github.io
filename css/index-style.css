@@ -16,5 +16,6 @@ header {
 
 	background-image: url(../images/colored-banner.png);
 	height: 267px;
+	margin-left: 60px;
 	background-repeat: no-repeat;
 }
