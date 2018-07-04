@@ -11,3 +11,10 @@ body {
 	/*a number multiplier*/
 
 }
+
+header {
+
+	background-image: url(../images/colored-banner.png);
+	height: 800px;
+	background-repeat: no-repeat;
+}
