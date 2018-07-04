@@ -2,10 +2,12 @@ body {
 
 	text-align: center;
 	background-color: #fafafa;
-	background-image: "images/heart-pattern-1.png";
+	background-image: "../images/heart-pattern-1.png";
 	background-repeat: repeat;
 	line-height: 1.5;
 	font-size: 100%;
 	font-family: 'Lato', sans-serif;
 	/*if a font has spaces; use quotation marks. Eg "Times New Roman"
 	/*a number multiplier*/
+
+}
