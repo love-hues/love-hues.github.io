@@ -13,11 +13,10 @@ body {
 }
 
 header {
-
 	background-image: url(../images/colored-banner.png);
 	height: 267px;
-	margin: auto;
-	width: 50%;
+	/*margin: auto;*/
+	/*width: 100%;*/
 	background-repeat: no-repeat;
 }
 
