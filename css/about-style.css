@@ -12,43 +12,14 @@ body {
 
 }
 
-header {
-	background-image: url(../images/small-banner_github.png);
-	height: 400px;
-	/*margin: auto;*/
-	/*width: 100%;*/
-	background-repeat: no-repeat;
-}
-
-.coverimage {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+img {
 	max-width: 100%;
 	height: auto;
-
 	/*margin: auto;*/
 	/*width: 100%;*/
 }
 
-.img {
-	max-width: 100%;
-	height: auto;
-}
+.display-2 {
 
-p {
 	text-align: center;
-}
-
-h2 {
-	text-align: center;
-}
-
-h1 {
-	text-align: center;
-}
-
-.btn {
-	margin-left: auto;
-	margin-right: auto;
 }
