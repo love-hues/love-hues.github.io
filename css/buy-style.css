@@ -1,0 +1,20 @@
+body {
+
+	/*text-align: center;*/
+	background-color: #fafafa;
+	/*background-image: url("../images/classroom-background.png");
+	background-repeat: no-repeat;*/
+	line-height: 1.5;
+	font-size: 100%;
+	font-family: 'Montserrat', sans-serif;
+	/*if a font has spaces; use quotation marks. Eg "Times New Roman"
+	/*a number multiplier*/
+
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	/*margin: auto;*/
+	/*width: 100%;*/
+}
